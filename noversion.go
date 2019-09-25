@@ -2,6 +2,6 @@ package noversion
 
 import "fmt"
 
-func f01() {
+func F01() {
 	fmt.Println("f01")
 }
